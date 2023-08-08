@@ -11,7 +11,10 @@ public class Passageiro {
         System.out.println();
     }
 
-    public Passageiro(){
+    public Passageiro() {
+    }
+
+    public String passeando(){ return "passeando";
 
     }
 
